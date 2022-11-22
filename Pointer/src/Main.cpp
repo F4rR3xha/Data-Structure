@@ -1,4 +1,5 @@
 #include <iostream>
+
 using namespace std;
 
 int main(){
@@ -18,4 +19,6 @@ int main(){
     *pointerNama = "Fara Darniva";
     cout << "Nilai pada pointer nama\t\t\t\t: " << *pointerNama << endl;
 
+    return 0;
+    
 }
