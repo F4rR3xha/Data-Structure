@@ -181,5 +181,6 @@ int main(){
     cetakSLL();
     ubahTengahSLL( "Retha Faradina Mecka","A11.2003.3008",18,2 );
     cetakSLL();
-
+    return 0;
+    
 }
