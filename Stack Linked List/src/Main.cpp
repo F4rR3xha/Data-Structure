@@ -1,4 +1,5 @@
 #include <iostream>
+
 #define MAX 5
 
 using namespace std;
@@ -144,5 +145,6 @@ int main(){
     lihatMhs(4);
     ubahMhs("Irgi Saputra",20,3);
     cetakMhs();
+    return 0;
 
 }
