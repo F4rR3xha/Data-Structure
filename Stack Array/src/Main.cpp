@@ -110,5 +110,6 @@ int main(){
     masukanArray("Ikhwan Fi'la");
     masukanArray("Fara Darniva");
     cetakStack();
+    return 0;
 
 }
